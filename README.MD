@@ -2,13 +2,10 @@
 
 
 
-- 🐕 Hi, I’m K9-Software
-- 🥠 I'ma Lucky Guy
-- 🛡️ I’m interested in Antivirus/Antimalware software
-- 💻 I’m currently learning Batch Code
-- 📫 How to reach me Sonicexegame925@gmail.com
-- 👁️‍🗨️ My name is Omar Raslan
-- 📖 @K9-Software
+- 🐕 Hi, I’m K9-Software(K9-Powerware)
+- 💻 We use Batch Code
+- 📫 How to reach me vefcinpkjm@gmail.com
+- 📖 @K9-Powerware
 # Website Disclaimer
 <p>Last updated: 2/23/2022.</p>
 <p>Thank you for visiting K9-Software.</p>
